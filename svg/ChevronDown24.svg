@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ChevronDown24</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ChevronDown24" fill="#000000" fill-rule="nonzero">
+            <path d="M12,16.7714952 L22.2928932,7.27036297 C22.6834175,6.90987901 23.3165825,6.90987901 23.7071068,7.27036297 C24.0976311,7.63084693 24.0976311,8.21530691 23.7071068,8.57579087 L12.7071068,18.729637 C12.3165825,19.090121 11.6834175,19.090121 11.2928932,18.729637 L0.292893219,8.57579087 C-0.0976310729,8.21530691 -0.0976310729,7.63084693 0.292893219,7.27036297 C0.683417511,6.90987901 1.31658249,6.90987901 1.70710678,7.27036297 L12,16.7714952 Z"></path>
+        </g>
+    </g>
+</svg>

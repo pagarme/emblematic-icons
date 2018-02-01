@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ArrowDown24</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ArrowDown24" fill="#000000" fill-rule="nonzero">
+            <path d="M11,20.5857864 L11,0.956521739 C11,0.42824937 11.4477153,0 12,0 C12.5522847,0 13,0.42824937 13,0.956521739 L13,20.5857864 L19.2928932,14.2928932 C19.6834175,13.9023689 20.3165825,13.9023689 20.7071068,14.2928932 C21.0976311,14.6834175 21.0976311,15.3165825 20.7071068,15.7071068 L12.7071068,23.7071068 C12.3165825,24.0976311 11.6834175,24.0976311 11.2928932,23.7071068 L3.29289322,15.7071068 C2.90236893,15.3165825 2.90236893,14.6834175 3.29289322,14.2928932 C3.68341751,13.9023689 4.31658249,13.9023689 4.70710678,14.2928932 L11,20.5857864 Z"></path>
+        </g>
+    </g>
+</svg>

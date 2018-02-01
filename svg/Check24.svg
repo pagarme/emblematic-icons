@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Check24</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Check24" fill="#000000" fill-rule="nonzero">
+            <path d="M7.87500002,17.7332876 L22.2958333,4.27290849 C22.6879746,3.90688448 23.3211342,3.90935716 23.7100347,4.27843137 C24.0989352,4.64750558 24.096308,5.24342043 23.7041666,5.60944444 L8.57916668,19.7270914 C8.18932448,20.0909694 7.56067556,20.0909694 7.17083336,19.7270914 L0.295833386,13.3099792 C-0.0963079604,12.9439552 -0.0989351784,12.3480403 0.289965331,11.9789661 C0.67886584,11.6098919 1.31202537,11.6074192 1.70416671,11.9734432 L7.87500002,17.7332876 Z"></path>
+        </g>
+    </g>
+</svg>

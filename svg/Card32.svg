@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Card32</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Card32" fill="#000000" fill-rule="nonzero">
+            <path d="M1,14 C0.44771525,14 0,13.5522847 0,13 C0,12.4477153 0.44771525,12 1,12 L31,12 C31.5522847,12 32,12.4477153 32,13 C32,13.5522847 31.5522847,14 31,14 L1,14 Z M3,6 C2.44771525,6 2,6.44771525 2,7 L2,25 C2,25.5522847 2.44771525,26 3,26 L29,26 C29.5522847,26 30,25.5522847 30,25 L30,7 C30,6.44771525 29.5522847,6 29,6 L3,6 Z M3,4 L29,4 C30.6568542,4 32,5.34314575 32,7 L32,25 C32,26.6568542 30.6568542,28 29,28 L3,28 C1.34314575,28 2.22044605e-16,26.6568542 0,25 L0,7 C-2.22044605e-16,5.34314575 1.34314575,4 3,4 Z"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Extract32</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Extract32" fill="#000000" fill-rule="nonzero">
+            <path d="M20.5,26.7321242 L24.0479714,15.6939908 C24.1808992,15.2804377 24.5656085,15 25,15 L31,15 C31.5522847,15 32,15.4477153 32,16 C32,16.5522847 31.5522847,17 31,17 L25.7289601,17 L21.4520286,30.3060092 C21.1546039,31.2313303 19.8453961,31.2313303 19.5479714,30.3060092 L11.5,5.26787582 L7.95202856,16.3060092 C7.81910079,16.7195623 7.43439146,17 7,17 L1,17 C0.44771525,17 0,16.5522847 0,16 C0,15.4477153 0.44771525,15 1,15 L6.27103992,15 L10.5479714,1.69399082 C10.8453961,0.768669727 12.1546039,0.768669727 12.4520286,1.69399082 L20.5,26.7321242 Z"></path>
+        </g>
+    </g>
+</svg>

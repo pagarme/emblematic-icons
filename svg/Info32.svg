@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Info32</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Info32" fill="#000000" fill-rule="nonzero">
+            <path d="M16,32 C7.163444,32 0,24.836556 0,16 C0,7.163444 7.163444,0 16,0 C24.836556,0 32,7.163444 32,16 C32,24.836556 24.836556,32 16,32 Z M16,30 C23.7319865,30 30,23.7319865 30,16 C30,8.2680135 23.7319865,2 16,2 C8.2680135,2 2,8.2680135 2,16 C2,23.7319865 8.2680135,30 16,30 Z M15,13.5 C15,12.6715729 15.4477153,12 16,12 C16.5522847,12 17,12.6715729 17,13.5 L17,22.5 C17,23.3284271 16.5522847,24 16,24 C15.4477153,24 15,23.3284271 15,22.5 L15,13.5 Z M16,10 C15.4477153,10 15,9.55228475 15,9 C15,8.44771525 15.4477153,8 16,8 C16.5522847,8 17,8.44771525 17,9 C17,9.55228475 16.5522847,10 16,10 Z"></path>
+        </g>
+    </g>
+</svg>

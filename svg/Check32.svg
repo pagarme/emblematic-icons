@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Check32</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Check32" fill="#000000" fill-rule="nonzero">
+            <path d="M10.3750001,25.4673448 L30.2865516,4.31230494 C30.673542,3.90114682 31.3066812,3.89519486 31.7007078,4.29901088 C32.0947343,4.70282689 32.1004383,5.36349396 31.7134479,5.77465209 L11.0884482,27.6876953 C10.6965183,28.1041016 10.0534819,28.1041016 9.66155194,27.6876953 L0.28655209,17.7272211 C-0.100438255,17.316063 -0.0947342974,16.6553959 0.299292235,16.2515799 C0.693318768,15.8477639 1.32645804,15.8537159 1.71344839,16.264874 L10.3750001,25.4673448 Z"></path>
+        </g>
+    </g>
+</svg>

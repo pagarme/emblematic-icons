@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>RemoveBox32</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="RemoveBox32" fill="#000000" fill-rule="nonzero">
+            <path d="M3,2 C2.44771525,2 2,2.44771525 2,3 L2,29 C2,29.5522847 2.44771525,30 3,30 L29,30 C29.5522847,30 30,29.5522847 30,29 L30,3 C30,2.44771525 29.5522847,2 29,2 L3,2 Z M3,0 L29,0 C30.6568542,-3.33066907e-16 32,1.34314575 32,3 L32,29 C32,30.6568542 30.6568542,32 29,32 L3,32 C1.34314575,32 3.33066907e-16,30.6568542 0,29 L0,3 C-1.66533454e-16,1.34314575 1.34314575,3.33066907e-16 3,0 Z M9,18 L23,18 C23.5328189,18 24,17.5522847 24,17 C24,16.4477153 23.5328189,16 23,16 L9,16 C8.46718113,16 8,16.4477153 8,17 C8,17.5522847 8.46718113,18 9,18 Z"></path>
+        </g>
+    </g>
+</svg>
