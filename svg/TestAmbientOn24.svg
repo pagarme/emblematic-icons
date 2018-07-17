@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="24px" viewBox="0 0 21 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Icone ambiente de teste</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons/Test-on" transform="translate(-103.000000, 0.000000)" fill-rule="nonzero">
+            <g id="Icone-ambiente-de-teste" transform="translate(103.000000, 0.000000)">
+                <g id="cubo-copy">
+                    <g id="cubo-menor" transform="translate(4.018966, 3.408365)">
+                        <polygon id="Shape" fill="#F3F3F3" points="6.48103448 14.3307657 0.181034483 11.2003309 0.181034483 3.89598304 6.48103448 7.02641783"></polygon>
+                        <polygon id="Shape" fill="#EEEEEE" points="6.48103448 14.3307657 12.7810345 11.2003309 12.7810345 3.89598304 6.48103448 7.02641783"></polygon>
+                        <polygon id="Shape" fill="#FFFFFF" points="0.181034483 3.89598304 6.48103448 0.76554826 12.7810345 3.89598304 6.48103448 7.02641783"></polygon>
+                    </g>
+                    <polygon id="Shape-Copy-3" fill-opacity="0.8" fill="#32B88B" points="10.5 24 0 18.573913 0 5.2173913 10.5 10.4347826"></polygon>
+                    <polygon id="Shape-Copy-2" fill-opacity="0.8" fill="#2B9E77" points="10.5 24 21 18.573913 21 5.2173913 10.5 10.4347826"></polygon>
+                    <polygon id="Shape-Copy" fill-opacity="0.8" fill="#37CC9A" points="0 5.2173913 10.4946862 0 21 5.2173913 10.5 10.4347826"></polygon>
+                </g>
+                <g id="cubo">
+                    <g id="cubo-menor" transform="translate(4.018966, 3.408365)">
+                        <polygon id="Shape" fill="#F3F3F3" points="6.48103448 14.3307657 0.181034483 11.2003309 0.181034483 3.89598304 6.48103448 7.02641783"></polygon>
+                        <polygon id="Shape" fill="#EEEEEE" points="6.48103448 14.3307657 12.7810345 11.2003309 12.7810345 3.89598304 6.48103448 7.02641783"></polygon>
+                        <polygon id="Shape" fill="#FFFFFF" points="0.181034483 3.89598304 6.48103448 0.76554826 12.7810345 3.89598304 6.48103448 7.02641783"></polygon>
+                    </g>
+                    <polygon id="Shape-Copy-3" fill-opacity="0.8" fill="#32B88B" points="10.5 24 0 18.573913 0 5.2173913 10.5 10.4347826"></polygon>
+                    <polygon id="Shape-Copy-2" fill-opacity="0.8" fill="#2B9E77" points="10.5 24 21 18.573913 21 5.2173913 10.5 10.4347826"></polygon>
+                    <polygon id="Shape-Copy" fill-opacity="0.8" fill="#37CC9A" points="0 5.2173913 10.4946862 0 21 5.2173913 10.5 10.4347826"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
