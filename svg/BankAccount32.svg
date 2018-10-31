@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="16px" viewBox="0 0 12 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Icone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M13,0 L3,0 C2.44771525,0 2,0.44771525 2,1 L2,15 C2,15.5522847 2.44771525,16 3,16 L13,16 C13.5522847,16 14,15.5522847 14,15 L14,1 C14,0.44771525 13.5522847,0 13,0 Z M13,15 L3,15 L3,1 L13,1 L13,15 Z M6.5,3 L11,3 L11,4 L6.5,4 L6.5,3 Z M6.5,5 L11,5 L11,6 L6.5,6 L6.5,5 Z M6.5,7 L11,7 L11,8 L6.5,8 L6.5,7 Z M6.5,9 L11,9 L11,10 L6.5,10 L6.5,9 Z M6.5,11 L11,11 L11,12 L6.5,12 L6.5,11 Z M4.5,3 L5.5,3 L5.5,4 L4.5,4 L4.5,3 Z M4.5,5 L5.5,5 L5.5,6 L4.5,6 L4.5,5 Z M4.5,7 L5.5,7 L5.5,8 L4.5,8 L4.5,7 Z M4.5,9 L5.5,9 L5.5,10 L4.5,10 L4.5,9 Z M4.5,11 L5.5,11 L5.5,12 L4.5,12 L4.5,11 Z" id="path-1"></path>
+    </defs>
+    <g id="Detalhes-do-recebedor" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Detalhes-do-recebedor---Configuracoes---fechada" transform="translate(-308.000000, -567.000000)">
+            <g id="Conta-bancaria" transform="translate(266.000000, 527.000000)">
+                <g id="Icons/16/Assinaturas" transform="translate(40.000000, 40.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Shape" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    <g id="Color/type_default---#757575" mask="url(#mask-2)" fill="#757575" fill-rule="evenodd">
+                        <rect id="Color-shape" x="0" y="0" width="16" height="16"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
