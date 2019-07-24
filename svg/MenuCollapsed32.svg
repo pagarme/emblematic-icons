@@ -1,0 +1,15 @@
+<svg width="32px" height="32px" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Menu Collapsed 32</title>
+    <defs>
+        <path id="a" d="M.294 13C.132 13 0 12.552 0 12s.132-1 .294-1h9.412c.162 0 .294.448.294 1s-.132 1-.294 1H.294zm.059-4C.158 9 0 8.552 0 8s.158-1 .353-1h11.294c.195 0 .353.448.353 1s-.158 1-.353 1H.353zM12 12V4l4 4-4 4zM.294 5C.132 5 0 4.552 0 4s.132-1 .294-1h9.412c.162 0 .294.448.294 1s-.132 1-.294 1H.294z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="b" fill="#000">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="#000" fill-rule="nonzero" xlink:href="#a"/>
+        <g fill="#000" mask="url(#b)">
+            <path d="M0 0h16v16H0z"/>
+        </g>
+    </g>
+</svg>
