@@ -1,7 +1,6 @@
-<svg width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Menu Not Collapsed 24</title>
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
-        <path id="a" d="M4 7h11.618c.21 0 .382.448.382 1s-.171 1-.382 1H4v3L0 8l4-4v3zm2.294 6C6.132 13 6 12.552 6 12s.132-1 .294-1h9.412c.162 0 .294.448.294 1s-.132 1-.294 1H6.294zm0-8C6.132 5 6 4.552 6 4s.132-1 .294-1h9.412c.162 0 .294.448.294 1s-.132 1-.294 1H6.294z"/>
+        <path id="a" d="M6 10.5h17.426c.317 0 .574.672.574 1.5s-.257 1.5-.574 1.5H6V18l-6-6 6-6v4.5zm3.441 9C9.198 19.5 9 18.828 9 18s.198-1.5.441-1.5H23.56c.243 0 .441.672.441 1.5s-.198 1.5-.441 1.5H9.44zm0-12C9.198 7.5 9 6.828 9 6s.198-1.5.441-1.5H23.56c.243 0 .441.672.441 1.5s-.198 1.5-.441 1.5H9.44z"/>
     </defs>
-    <use fill="#000" fill-rule="nonzero" transform="translate(0 -3)" xlink:href="#a"/>
+    <use fill="#000" fill-rule="nonzero" xlink:href="#a"/>
 </svg>
