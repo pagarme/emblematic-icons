@@ -3,5 +3,3 @@
 # emblematic-icons
 
 > A set of icons tailored for Pagar.me
-
-<br>
