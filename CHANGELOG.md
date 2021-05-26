@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.15.0](https://www.github.com/pagarme/emblematic-icons/compare/v0.14.1...v0.15.0) (2021-05-26)
+
+
+### Features
+
+* add bill sign ([d42b66b](https://www.github.com/pagarme/emblematic-icons/commit/d42b66b85adc5da3e77ceb3045ee3f4193bcbf17))
+
 ### [0.13.2](https://www.github.com/pagarme/emblematic-icons/compare/v0.13.1...v0.13.2) (2021-03-08)
 
 
