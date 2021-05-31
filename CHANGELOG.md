@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.14.3](https://www.github.com/pagarme/emblematic-icons/compare/v0.14.2...v0.14.3) (2021-05-31)
+
+
+### Bug Fixes
+
+* add viewBox property to bill icon ([1d29efd](https://www.github.com/pagarme/emblematic-icons/commit/1d29efd32d86b4c57b7bbcd9b479a97b85de99b3))
+
 ### [0.13.2](https://www.github.com/pagarme/emblematic-icons/compare/v0.13.1...v0.13.2) (2021-03-08)
 
 
