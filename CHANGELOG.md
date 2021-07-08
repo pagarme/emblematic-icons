@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.14.4](https://www.github.com/pagarme/emblematic-icons/compare/v0.14.3...v0.14.4) (2021-07-08)
+
+
+### Bug Fixes
+
+* add currentColor to DollarSign ([5b4107b](https://www.github.com/pagarme/emblematic-icons/commit/5b4107bb1090f5d33ea8d689c32a72514a67c098))
+
 ### [0.13.2](https://www.github.com/pagarme/emblematic-icons/compare/v0.13.1...v0.13.2) (2021-03-08)
 
 
