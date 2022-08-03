@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.20.0](https://www.github.com/pagarme/emblematic-icons/compare/v0.19.0...v0.20.0) (2022-08-03)
+
+
+### Features
+
+* add new ellipsis icon ([a1d2799](https://www.github.com/pagarme/emblematic-icons/commit/a1d2799dc4ea325f2b2f47d4b13b400b250aae08))
+
 ### [0.13.2](https://www.github.com/pagarme/emblematic-icons/compare/v0.13.1...v0.13.2) (2021-03-08)
 
 
