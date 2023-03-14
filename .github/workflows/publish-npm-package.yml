@@ -3,7 +3,7 @@ name: publish-npm-package
 on:
   push:
     branches:
-      - '.*'
+      - QA-2842/convert-circleci-to-GA-test
 
 jobs:
   publish:
